@@ -8,3 +8,6 @@ Using multiple machine learning model
 Classification and Regression type in models
 
 Accuracy was 92%
+
+
+Edited Github.
